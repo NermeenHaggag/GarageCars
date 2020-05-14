@@ -39,8 +39,8 @@ Console application
 
 ## Author
 
-* [Abdelrahman Elsayed](https://github.com/abdel-elsayed)
+* [Nermeen Haggag](https://github.com/NermeenHaggag)
 
 ## Project repository link
 
-https://github.com/abdel-elsayed/GarageCars
+https://github.com/NermeenHaggag/GarageCars
