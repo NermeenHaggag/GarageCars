@@ -15,7 +15,6 @@ int main() {
 
 	lot1.setConsoleColor(46);
 	cout << "\n\n--------------------------------------------WELCOME TO MY GARAGE-----------------------------------------------------\n";
-	cout <<     "                                           by Abdelrahman Elsayed                                                     ";
 	lot1.setConsoleColor(7);
 	cout << endl << endl;
 	while (!inData.eof())
