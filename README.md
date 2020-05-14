@@ -29,8 +29,6 @@ Console application
 
 ## Screen shots
 
-![alt tag](https://github.com/abdel-elsayed/GarageCars/blob/master/garage_entry_screenshot.PNG)
-
 ![alt_tag](https://github.com/abdel-elsayed/GarageCars/blob/master/garage_exit1_screenshot.PNG)
 
 ![alt tag](https://github.com/abdel-elsayed/GarageCars/blob/master/garage_exit2_screenshot.PNG)
